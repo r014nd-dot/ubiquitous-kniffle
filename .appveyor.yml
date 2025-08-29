@@ -1,6 +1,6 @@
 version: 1.0.{build}
 
-image: macos-sonoma
+image: Visual Studio 2022
 
 build_script:
 
